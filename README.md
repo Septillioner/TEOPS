@@ -27,7 +27,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-TEOPS accoring to simple using socket for simple projects 
+TEOPS according to simple using socket for simple projects 
 
 
 ### Prerequisites
