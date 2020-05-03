@@ -1,0 +1,8 @@
+README.md
+setup.py
+TEOPS.egg-info/PKG-INFO
+TEOPS.egg-info/SOURCES.txt
+TEOPS.egg-info/dependency_links.txt
+TEOPS.egg-info/top_level.txt
+teops/__init__.py
+teops/teops.py

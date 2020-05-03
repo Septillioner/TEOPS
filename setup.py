@@ -4,7 +4,7 @@ with open("README.md","r") as fp:
 
 
 setuptools.setup(
-    name="TEOPS-septillioner",
+    name="TEOPS",
     version="0.1a",
     author="septillioner",
     author_email="septillioner@protonmail.com",
